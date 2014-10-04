@@ -1,0 +1,35 @@
+<?xml version="1.0" encoding="utf-8"?>
+<pre-dex-items>
+
+    <item
+        dex="/code/android/lmp-preview-dev/developers/samples/android/ui/notifications/LNotifications/LNotificationsSample/build/intermediates/pre-dexed/debug/support-annotations-20.0.0-38863ea0c69122b163bcb7bb1300b05a97600e6f.jar"
+        jar="/usr/local/google/home/trevorjohns/opt/android-sdk-linux/extras/android/m2repository/com/android/support/support-annotations/20.0.0/support-annotations-20.0.0.jar"
+        jumboMode="false"
+        revision="20.0.0"
+        sha1="9d9013e9ff35fc3756411e62873c363c70c638fa"/>
+    <item
+        dex="/code/android/lmp-preview-dev/developers/samples/android/ui/notifications/LNotifications/LNotificationsSample/build/intermediates/pre-dexed/debug/classes-c8987fdaba6fb35308e14fd8a689bf6b3d5d715e.jar"
+        jar="/code/android/lmp-preview-dev/developers/samples/android/ui/notifications/LNotifications/LNotificationsSample/build/intermediates/exploded-aar/com.android.support/support-v4/20.0.0/classes.jar"
+        jumboMode="false"
+        revision="20.0.0"
+        sha1="8694693636ab36910c8100ce527c258ff3ebece0"/>
+    <item
+        dex="/code/android/lmp-preview-dev/developers/samples/android/ui/notifications/LNotifications/LNotificationsSample/build/intermediates/pre-dexed/debug/internal_impl-20.0.0-ce1d338941e5244009388eb7afa75e00bd595ad7.jar"
+        jar="/code/android/lmp-preview-dev/developers/samples/android/ui/notifications/LNotifications/LNotificationsSample/build/intermediates/exploded-aar/com.android.support/support-v13/20.0.0/libs/internal_impl-20.0.0.jar"
+        jumboMode="false"
+        revision="20.0.0"
+        sha1="27bbd3982cdfe4468a9bf99c8c773734a9049e33"/>
+    <item
+        dex="/code/android/lmp-preview-dev/developers/samples/android/ui/notifications/LNotifications/LNotificationsSample/build/intermediates/pre-dexed/debug/internal_impl-20.0.0-d81285b8ccde66db70c6c6fca4d7e7810186713f.jar"
+        jar="/code/android/lmp-preview-dev/developers/samples/android/ui/notifications/LNotifications/LNotificationsSample/build/intermediates/exploded-aar/com.android.support/support-v4/20.0.0/libs/internal_impl-20.0.0.jar"
+        jumboMode="false"
+        revision="20.0.0"
+        sha1="e40b3078e3fbd353c9f44da8df25a8fc0078209d"/>
+    <item
+        dex="/code/android/lmp-preview-dev/developers/samples/android/ui/notifications/LNotifications/LNotificationsSample/build/intermediates/pre-dexed/debug/classes-8c9554c5734f0e1d9f758f5fd49f40127bee4b38.jar"
+        jar="/code/android/lmp-preview-dev/developers/samples/android/ui/notifications/LNotifications/LNotificationsSample/build/intermediates/exploded-aar/com.android.support/support-v13/20.0.0/classes.jar"
+        jumboMode="false"
+        revision="20.0.0"
+        sha1="e128103d5281ddd26195a7f980b36d0d005a4e56"/>
+
+</pre-dex-items>
