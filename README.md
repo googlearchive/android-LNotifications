@@ -1,9 +1,26 @@
 Android LNotifications Sample Sample
 ===================================
 
-This sample demonstrates how new features for notifications introduced in Android L
-are used such as Heads-Up notifications, visibility, people, category and priority
-metadata. (Priority metadata has been present since Jelly Bean, but actually unused).
+This sample demonstrates new features for notifications introduced in Android L.
+These features include heads-up notifications, visibility, people, category and priority
+metadata.
+
+Introduction
+------------
+
+Android 5.0 (Lollipop, API level 21) introduced additional features to the Notification API.
+Specifically, it allows developers to specify the priority and visibility level for
+notifications. This metadata allows the system to provide enhanced security for notifications
+while the lock screen is active, allows high-priority notifications to appear even when
+the notification bar is closed, and provides users to silence low-priority notifications
+when they're busy.
+
+This metadata is provided via additional arguments to the `Notification.Builder` class.
+
+Specifically, this sample demonstrates how to generate a heads-up notification
+(`HeadsUpNotificationFragment`), how to control visibility on the lock screen
+(`VisibilityMetadataFragment`), and how to set the category, priority, and associated contact
+for a notification (`OtherMetadataFragment`).
 
 Pre-requisites
 --------------
@@ -11,6 +28,11 @@ Pre-requisites
 - Android SDK v21
 - Android Build Tools v21.1.1
 - Android Support Repository
+
+Screenshots
+-------------
+
+<img src="screenshots/1-headsup.png" height="400" alt="Screenshot"/> <img src="screenshots/2-visibility.png" height="400" alt="Screenshot"/> <img src="screenshots/3-others.png" height="400" alt="Screenshot"/> 
 
 Getting Started
 ---------------

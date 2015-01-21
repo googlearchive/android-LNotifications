@@ -9,4 +9,10 @@ categories:   [Notification]
 languages:    [Java]
 solutions:    [Mobile]
 github:       android-LNotifications Sample
+level:        INTERMEDIATE
+icon:         screenshots/icon-web.png
+apiRefs:
+    - android:android.app.Notification
+    - android:android.app.Notification.Builder
+    - android:android.app.NotificationManager
 license: apache2
